@@ -1,0 +1,7 @@
+{
+  "name": "FocusFlow AI - Productivity Tracker",
+  "description": "A comprehensive productivity management dashboard that simulates a Chrome extension. It tracks site usage, manages blocklists, and uses Gemini AI to provide personalized productivity insights and focus plans.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
